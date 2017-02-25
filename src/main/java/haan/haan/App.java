@@ -13,5 +13,6 @@ public class App
         System.out.println("Sang-woo Moon is back!!!");
         System.out.println("생일 축하해");
         System.out.println("What is good for today's lunch?");
+        System.out.println("It is very tricky");
     }
 }
