@@ -11,5 +11,6 @@ public class App
     	//haan
         System.out.println( "Hello World!" );
         System.out.println("Sang-woo Moon is back!!!");
+        System.out.println("생일 축하해");
     }
 }
